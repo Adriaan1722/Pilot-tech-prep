@@ -1,0 +1,1209 @@
+[
+  {
+    "number": "1",
+    "question": "The stop-way is an area which allows an increase only in the?",
+    "options": [
+      "Take-off distance available",
+      "Accelerate-stop distance available",
+      "Landing distance available"
+    ],
+    "answer_index": 1
+  },
+  {
+    "number": "2",
+    "question": "When quick-donning masks are in use, the pilot is?",
+    "options": [
+      "Only able to receive communications",
+      "Able to receive and transmit communications",
+      "Only able to transmit"
+    ],
+    "answer_index": 1
+  },
+  {
+    "number": "3",
+    "question": "If the wing area is increased, lift will:",
+    "options": [
+      "Remain constant",
+      "Increase because it is directly proportional to wing area",
+      "Increase with the square of wing area"
+    ],
+    "answer_index": 1
+  },
+  {
+    "number": "4",
+    "question": "What does ‘NSC’ mean?",
+    "options": [
+      "No significant cloud",
+      "No significant change",
+      "No significant correction"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "5",
+    "question": "Passenger oxygen mask will supply?",
+    "options": [
+      "A mixture of cabin air and oxygen",
+      "100 % oxygen",
+      "A mixture of oxygen and freon gas"
+    ],
+    "answer_index": 1
+  },
+  {
+    "number": "6",
+    "question": "On an ILS approach, when can you descend on the glide path?",
+    "options": [
+      "Anytime you are cleared for the approach",
+      "Once you have captured the localizer and within ± 5 degrees",
+      "You are cleared for the ILS approach and you have captured the localizer within ± 5 degrees"
+    ],
+    "answer_index": 2
+  },
+  {
+    "number": "7",
+    "question": "What is V MC A in a multi-engine aircraft?",
+    "options": [
+      "Minimum control speed in the air",
+      "Minimum climb speed",
+      "Maximum control speed in the air"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "8",
+    "question": "A rapid decompression is likely to result in?",
+    "options": [
+      "Fog forming in the cabin",
+      "A temperature rise",
+      "An increase in cabin altitude"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "9",
+    "question": "The function of a pressurization outflow valve is to?",
+    "options": [
+      "Regulate the cabin altitude",
+      "Increase cabin pressure",
+      "Provide ventilation air"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "10",
+    "question": "The purpose of a static inverter is to?",
+    "options": [
+      "Convert DC to AC",
+      "Convert AC to DC",
+      "Convert DC to higher DC voltage"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "11",
+    "question": "What is the advantage of a swept wing?",
+    "options": [
+      "Delays shock-wave formation at high Mach numbers",
+      "Improves low-speed handling",
+      "Increases lift at low angles of attack"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "12",
+    "question": "The function of a Mach trimmer is to?",
+    "options": [
+      "Automatically adjust elevator trim as Mach number changes",
+      "Prevent Mach tuck by moving the elevators manually",
+      "Limit Mach number"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "13",
+    "question": "In the event of an engine failure after V 1 the pilot should?",
+    "options": [
+      "Continue the take-off",
+      "Abort the take-off",
+      "Reduce thrust on the remaining engine"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "14",
+    "question": "The maximum speed below which full rudder deflection can be safely applied is?",
+    "options": [
+      "V A",
+      "V NE",
+      "V FE"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "15",
+    "question": "The main purpose of fuel crossfeed is to?",
+    "options": [
+      "Allow any engine to draw fuel from any tank",
+      "Balance fuel between tanks",
+      "Transfer fuel to the auxiliary tanks"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "16",
+    "question": "A high-lift device that increases both camber and wing area is?",
+    "options": [
+      "Fowler flap",
+      "Plain flap",
+      "Split flap"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "17",
+    "question": "When anti-ice is selected ON during icing conditions, the engine EGT is expected to?",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain unchanged"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "18",
+    "question": "The purpose of a stick shaker is to?",
+    "options": [
+      "Warn of an approaching stall",
+      "Indicate overspeed",
+      "Prevent Mach tuck"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "19",
+    "question": "When the gear warning horn sounds, it normally indicates?",
+    "options": [
+      "Landing gear not down when throttles closed",
+      "Overheated brakes",
+      "Hydraulic pressure low"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "20",
+    "question": "The pitot tube provides pressure for the?",
+    "options": [
+      "Airspeed indicator",
+      "Altimeter",
+      "Vertical-speed indicator"
+    ],
+    "answer_index": 0
+  }
+],
+  {
+    "number": "21",
+    "question": "The main purpose of spoilers in flight is to?",
+    "options": [
+      "Reduce lift and increase drag",
+      "Increase lift and reduce drag",
+      "Increase thrust"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "22",
+    "question": "What effect does extending the landing gear have on glide performance?",
+    "options": [
+      "Increases drag and steepens the glide",
+      "Decreases drag and flattens the glide",
+      "No effect on glide performance"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "23",
+    "question": "What is the main function of a generator control unit (GCU)?",
+    "options": [
+      "Regulate voltage and prevent reverse current flow",
+      "Control hydraulic pressure",
+      "Distribute fuel evenly to the engines"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "24",
+    "question": "The EGT (Exhaust Gas Temperature) is primarily used to monitor?",
+    "options": [
+      "Engine temperature and performance",
+      "Oil system temperature",
+      "Cabin temperature"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "25",
+    "question": "In a jet engine, the diffuser section functions to?",
+    "options": [
+      "Decrease air velocity and increase pressure before combustion",
+      "Increase air velocity and decrease pressure",
+      "Mix fuel with air"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "26",
+    "question": "Which instrument uses static pressure only?",
+    "options": [
+      "Altimeter",
+      "Airspeed indicator",
+      "Machmeter"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "27",
+    "question": "The component that converts mechanical movement into electrical signals for flight data recording is a?",
+    "options": [
+      "Transducer",
+      "Inverter",
+      "Rectifier"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "28",
+    "question": "When a shock wave forms on the wing, drag?",
+    "options": [
+      "Increases sharply",
+      "Decreases sharply",
+      "Remains constant"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "29",
+    "question": "The load factor in a coordinated level turn is determined by?",
+    "options": [
+      "The angle of bank",
+      "The airspeed",
+      "The aircraft weight"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "30",
+    "question": "When flaps are extended, the stalling speed?",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains the same"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "31",
+    "question": "What is the function of an accumulator in a hydraulic system?",
+    "options": [
+      "Damp pressure surges and store fluid under pressure",
+      "Store electrical energy",
+      "Lubricate system components"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "32",
+    "question": "In turbine engines, compressor stall is caused by?",
+    "options": [
+      "Disruption of airflow through the compressor",
+      "Fuel contamination",
+      "Excessive oil pressure"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "33",
+    "question": "The term ‘balanced field length’ refers to?",
+    "options": [
+      "Runway length required if engine fails at V1 and take-off is continued or aborted",
+      "The distance required to accelerate to V1 only",
+      "The total landing distance available"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "34",
+    "question": "A constant-speed propeller maintains selected RPM by?",
+    "options": [
+      "Automatically varying blade pitch angle",
+      "Varying throttle setting",
+      "Changing propeller diameter"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "35",
+    "question": "Which of the following indicates a compressor stall?",
+    "options": [
+      "Bang or backfire with fluctuating RPM and EGT rise",
+      "Gradual loss of thrust with low temperature",
+      "High fuel flow and low RPM with normal EGT"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "36",
+    "question": "In a pressurized cabin, cabin altitude is controlled by regulating?",
+    "options": [
+      "Outflow valve position",
+      "Inflow valve position",
+      "Bleed-air temperature"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "37",
+    "question": "The primary advantage of a turbofan over a turbojet engine is?",
+    "options": [
+      "Higher propulsive efficiency and lower specific fuel consumption",
+      "Higher noise levels",
+      "Simpler design"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "38",
+    "question": "What is the main hazard of operating an aircraft with asymmetric thrust?",
+    "options": [
+      "Loss of directional control",
+      "Reduced climb performance only",
+      "Increased lift on one wing"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "39",
+    "question": "During a rejected take-off, maximum braking should be applied?",
+    "options": [
+      "As soon as the throttles are closed and spoilers deployed",
+      "Immediately after lift-off",
+      "Only when the anti-skid light extinguishes"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "40",
+    "question": "In a reciprocating engine, detonation is?",
+    "options": [
+      "An explosive combustion of the fuel/air mixture",
+      "A slow burn of the mixture",
+      "A normal operating condition"
+    ],
+    "answer_index": 0
+  }
+]
+,
+  {
+    "number": "41",
+    "question": "The main purpose of wing dihedral is to?",
+    "options": [
+      "Increase lateral stability",
+      "Improve longitudinal stability",
+      "Increase lift at low speeds"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "42",
+    "question": "When descending through an inversion layer, an aircraft may encounter?",
+    "options": [
+      "Wind shear and turbulence",
+      "Icing conditions",
+      "Improved radio reception"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "43",
+    "question": "What happens to indicated airspeed if the pitot tube becomes blocked but the drain hole remains open?",
+    "options": [
+      "Indicated airspeed drops to zero",
+      "Indicated airspeed freezes at current value",
+      "Airspeed increases with altitude"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "44",
+    "question": "The function of a fire detection loop system is to?",
+    "options": [
+      "Detect overheat or fire conditions continuously",
+      "Extinguish a fire automatically",
+      "Detect fuel leaks"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "45",
+    "question": "What effect does using crossfeed have during normal operation?",
+    "options": [
+      "Allows fuel balancing between tanks",
+      "Reduces fuel consumption",
+      "Increases thrust"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "46",
+    "question": "The 'coffin corner' refers to?",
+    "options": [
+      "The narrow margin between stall speed and critical Mach number",
+      "The area of maximum lift-to-drag ratio",
+      "Aerodynamic center of the wing"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "47",
+    "question": "A static inverter converts?",
+    "options": [
+      "DC to AC power",
+      "AC to DC power",
+      "AC to higher frequency AC"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "48",
+    "question": "The first indication of an engine fire in flight is usually?",
+    "options": [
+      "A fire warning light or aural warning",
+      "Loss of RPM",
+      "Increase in oil pressure"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "49",
+    "question": "Which control input corrects for an aircraft yawing left during climb after take-off?",
+    "options": [
+      "Right rudder",
+      "Left aileron",
+      "Left rudder"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "50",
+    "question": "During descent, cabin differential pressure normally?",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains constant"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "51",
+    "question": "Which component maintains hydraulic pressure when the pump is not operating?",
+    "options": [
+      "Accumulator",
+      "Relief valve",
+      "Selector valve"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "52",
+    "question": "In an electrical system, the function of a bus bar is to?",
+    "options": [
+      "Distribute electrical power to multiple circuits",
+      "Convert AC to DC",
+      "Control voltage output"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "53",
+    "question": "The stall warning horn is usually activated by?",
+    "options": [
+      "A pressure sensor or vane near the leading edge",
+      "An angle-of-attack transducer in the tail",
+      "A throttle-position sensor"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "54",
+    "question": "What is meant by the term 'balanced field length'?",
+    "options": [
+      "Runway length where accelerate-stop equals accelerate-go distance",
+      "Total landing distance required",
+      "The distance needed to achieve V1 only"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "55",
+    "question": "The term 'Mach tuck' refers to?",
+    "options": [
+      "Nose-down pitching moment due to shock wave movement",
+      "Loss of lift due to low speed",
+      "Nose-up moment caused by center of pressure moving forward"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "56",
+    "question": "When operating anti-skid brakes, maximum braking efficiency occurs?",
+    "options": [
+      "Just before wheel lock-up",
+      "When the brakes are fully released",
+      "At maximum brake pressure"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "57",
+    "question": "In icing conditions, pneumatic boots are inflated to?",
+    "options": [
+      "Break off accumulated ice from the leading edge",
+      "Prevent water condensation",
+      "Heat the airfoil surface"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "58",
+    "question": "When the aircraft center of gravity moves forward, stall speed?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains the same"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "59",
+    "question": "The main advantage of a tricycle landing gear configuration is?",
+    "options": [
+      "Improved forward visibility and braking during landing",
+      "Reduced drag in flight",
+      "Simplified retraction system"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "60",
+    "question": "A jet engine compressor stall can be recognized by?",
+    "options": [
+      "Bang noise and fluctuating EGT or RPM",
+      "Gradual rise in EGT only",
+      "Steady RPM decrease without noise"
+    ],
+    "answer_index": 0
+  }
+]
+,
+  {
+    "number": "61",
+    "question": "What is the main purpose of a ram air turbine (RAT)?",
+    "options": [
+      "Provide emergency electrical or hydraulic power",
+      "Increase thrust in cruise",
+      "Vent cabin pressure"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "62",
+    "question": "If indicated airspeed is constant while climbing, true airspeed will?",
+    "options": [
+      "Increase with altitude",
+      "Decrease with altitude",
+      "Remain constant"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "63",
+    "question": "The main hazard of flying through volcanic ash is?",
+    "options": [
+      "Engine flameout and abrasion of turbine blades",
+      "Reduced radio reception",
+      "Cabin pressurization loss"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "64",
+    "question": "The stall speed of an aircraft increases with?",
+    "options": [
+      "Increased load factor (bank angle)",
+      "Decreased weight",
+      "Lower altitude"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "65",
+    "question": "The thrust produced by a jet engine primarily depends on?",
+    "options": [
+      "Mass flow rate and velocity change of exhaust gases",
+      "Fuel temperature",
+      "Compressor type"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "66",
+    "question": "The function of an oil cooler bypass valve is to?",
+    "options": [
+      "Allow oil to bypass cooler when temperature is low",
+      "Reduce oil pressure",
+      "Prevent reverse oil flow"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "67",
+    "question": "During a crosswind landing, the pilot should use?",
+    "options": [
+      "Aileron into the wind and opposite rudder",
+      "Rudder with the wind and opposite aileron",
+      "Elevator only"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "68",
+    "question": "What is the function of a yaw damper?",
+    "options": [
+      "Damp oscillations about the vertical axis (Dutch roll)",
+      "Control roll rate",
+      "Increase turn rate"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "69",
+    "question": "The main purpose of wing sweepback is to?",
+    "options": [
+      "Delay the onset of compressibility effects",
+      "Increase lift at low speed",
+      "Reduce drag at high angle of attack"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "70",
+    "question": "The main source of cabin pressurization air is?",
+    "options": [
+      "Engine bleed air",
+      "APU exhaust",
+      "Ram air inlet"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "71",
+    "question": "When the EPR (Engine Pressure Ratio) increases, it indicates?",
+    "options": [
+      "More thrust is being produced",
+      "Less thrust is being produced",
+      "No change in thrust"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "72",
+    "question": "A servo tab operates by?",
+    "options": [
+      "Moving opposite to the control surface to reduce pilot effort",
+      "Moving with the control surface to increase lift",
+      "Locking the surface in neutral"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "73",
+    "question": "If the hydraulic fluid becomes aerated, system performance will?",
+    "options": [
+      "Decrease due to compressibility of air bubbles",
+      "Improve due to reduced friction",
+      "Remain unaffected"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "74",
+    "question": "When an aircraft accelerates down the runway, dynamic pressure measured by the pitot tube?",
+    "options": [
+      "Increases with the square of the airspeed",
+      "Increases linearly with speed",
+      "Decreases as altitude increases"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "75",
+    "question": "What happens to lift when the angle of attack is increased beyond the critical angle?",
+    "options": [
+      "Lift decreases sharply due to flow separation",
+      "Lift continues to increase linearly",
+      "Drag decreases sharply"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "76",
+    "question": "A jet engine producing constant thrust will have?",
+    "options": [
+      "Decreasing acceleration as speed increases",
+      "Increasing acceleration as speed increases",
+      "Constant acceleration"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "77",
+    "question": "In a multi-engine aircraft, asymmetric thrust at low airspeed causes?",
+    "options": [
+      "Yaw towards the failed engine",
+      "Yaw away from the failed engine",
+      "Pitch up tendency"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "78",
+    "question": "The critical engine in a twin is the one which, if failed, produces?",
+    "options": [
+      "The most adverse yawing effect",
+      "The least yawing effect",
+      "The greatest climb performance"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "79",
+    "question": "During descent, true airspeed for a given indicated airspeed?",
+    "options": [
+      "Decreases as air density increases",
+      "Increases with altitude",
+      "Remains constant"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "80",
+    "question": "When anti-ice systems are operated on the ground, EGT or ITT readings will?",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain unchanged"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "81",
+    "question": "The purpose of a check valve in a hydraulic system is to?",
+    "options": [
+      "Allow flow in one direction only",
+      "Regulate flow rate",
+      "Control pressure to the actuator"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "82",
+    "question": "The most effective method of stall recovery is?",
+    "options": [
+      "Reduce angle of attack and apply power",
+      "Pull back on the control column and add power",
+      "Bank the aircraft to increase lift"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "83",
+    "question": "What does the term 'V1' mean?",
+    "options": [
+      "Take-off decision speed",
+      "Rotation speed",
+      "Stall warning activation speed"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "84",
+    "question": "What causes Dutch roll?",
+    "options": [
+      "Combination of yaw and roll coupling in swept wings",
+      "Unequal thrust from engines",
+      "Control surface flutter"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "85",
+    "question": "When the APU is running, bleed air can be used for?",
+    "options": [
+      "Starting engines and air conditioning",
+      "Increasing thrust",
+      "Pressurizing hydraulic systems only"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "86",
+    "question": "The term 'Vref' refers to?",
+    "options": [
+      "Approach reference speed (1.3 × stall speed in landing configuration)",
+      "Maximum structural speed",
+      "Manoeuvring speed"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "87",
+    "question": "When spoilers are deployed in flight, lift is?",
+    "options": [
+      "Reduced",
+      "Increased",
+      "Unaffected"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "88",
+    "question": "In the event of total electrical failure, the standby attitude indicator is powered by?",
+    "options": [
+      "Battery or emergency bus",
+      "Main generator",
+      "Hydraulic system"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "89",
+    "question": "When does a turbine engine produce the greatest thrust?",
+    "options": [
+      "At low altitude and low temperature",
+      "At high altitude and high temperature",
+      "At high altitude and low temperature"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "90",
+    "question": "What is the purpose of a bleed valve in a compressor stage?",
+    "options": [
+      "Prevent compressor stall at low RPM",
+      "Increase thrust at high altitude",
+      "Regulate fuel flow"
+    ],
+    "answer_index": 0
+  }
+]
+,
+  {
+    "number": "91",
+    "question": "What is the primary purpose of the engine fire handle?",
+    "options": [
+      "Shut off fuel, hydraulic, and bleed air to the affected engine",
+      "Discharge extinguishing agent automatically",
+      "Close cabin outflow valves"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "92",
+    "question": "The primary indication of a turbine engine hot start is?",
+    "options": [
+      "Rapidly rising EGT or ITT beyond limits",
+      "Low RPM and low fuel flow",
+      "Decreasing oil pressure"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "93",
+    "question": "The function of a fuel control unit (FCU) is to?",
+    "options": [
+      "Meter and control the amount of fuel delivered to the combustion chamber",
+      "Pressurize the hydraulic lines",
+      "Adjust bleed-air temperature"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "94",
+    "question": "What happens to true altitude when flying from high to low temperature without correcting?",
+    "options": [
+      "True altitude is lower than indicated",
+      "True altitude is higher than indicated",
+      "Remains the same"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "95",
+    "question": "Which instrument is most affected by position error?",
+    "options": [
+      "Airspeed indicator",
+      "Altimeter",
+      "Vertical speed indicator"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "96",
+    "question": "The primary purpose of thrust reversers is to?",
+    "options": [
+      "Assist deceleration after landing",
+      "Increase take-off performance",
+      "Provide directional control on the ground"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "97",
+    "question": "What does the term 'critical Mach number' mean?",
+    "options": [
+      "The lowest Mach number at which airflow over any part of the wing reaches Mach 1",
+      "The speed at which shock waves disappear",
+      "The speed for best lift-to-drag ratio"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "98",
+    "question": "When flaps are extended, drag increases because?",
+    "options": [
+      "The effective camber and surface area of the wing increase",
+      "Lift decreases",
+      "Thrust requirement decreases"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "99",
+    "question": "The most likely cause of a hung start is?",
+    "options": [
+      "Insufficient starter RPM or weak battery",
+      "Fuel contamination",
+      "Ignition failure"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "100",
+    "question": "The main advantage of a swept-back tailplane is to?",
+    "options": [
+      "Reduce drag and improve stability at high speeds",
+      "Increase lift at low speeds",
+      "Simplify control linkage"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "101",
+    "question": "What system maintains constant cabin pressure during climb and descent?",
+    "options": [
+      "Outflow valve and pressure controller",
+      "Bleed-air valve only",
+      "Cabin air recirculation fan"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "102",
+    "question": "When battery voltage drops below normal, generator output will?",
+    "options": [
+      "Increase automatically to maintain system voltage",
+      "Decrease proportionally",
+      "Remain unaffected"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "103",
+    "question": "The purpose of a trim tab is to?",
+    "options": [
+      "Relieve control pressure on the pilot",
+      "Increase control sensitivity",
+      "Reduce drag during climb"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "104",
+    "question": "Which atmospheric condition will cause the greatest increase in take-off distance?",
+    "options": [
+      "High temperature and high humidity",
+      "Low temperature and low humidity",
+      "High pressure and low temperature"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "105",
+    "question": "The pressurization safety valve prevents?",
+    "options": [
+      "Excessive cabin differential pressure",
+      "Cabin altitude from decreasing too rapidly",
+      "Over-temperature in the cockpit"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "106",
+    "question": "If the anti-skid system fails, the pilot should expect?",
+    "options": [
+      "Longer stopping distance due to possible wheel lock-up",
+      "Shorter stopping distance",
+      "No change in braking performance"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "107",
+    "question": "The term 'Vmca' is defined as?",
+    "options": [
+      "Minimum control speed with critical engine inoperative",
+      "Minimum climb speed",
+      "Maximum crosswind control speed"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "108",
+    "question": "What component provides electrical frequency conversion on large aircraft?",
+    "options": [
+      "Static inverter or frequency converter",
+      "Generator control unit",
+      "Bus tie contactor"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "109",
+    "question": "The most accurate fuel quantity indication system uses?",
+    "options": [
+      "Capacitance probes",
+      "Float-type gauges",
+      "Pressure-type transmitters"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "110",
+    "question": "When an engine is operating at constant thrust, fuel flow normally?",
+    "options": [
+      "Increases with altitude",
+      "Decreases with altitude",
+      "Remains constant"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "111",
+    "question": "What is the main risk of operating a turbojet engine above its EGT limit?",
+    "options": [
+      "Thermal damage to turbine blades",
+      "Compressor stall",
+      "Flame extinction"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "112",
+    "question": "Which factor has the greatest effect on Vmc?",
+    "options": [
+      "Power setting on the operating engine",
+      "Aircraft weight",
+      "Flap configuration"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "113",
+    "question": "A failed generator is normally isolated from the system by the?",
+    "options": [
+      "Generator control breaker (GCB)",
+      "Bus tie breaker",
+      "Reverse current relay"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "114",
+    "question": "A turbine engine's bypass ratio refers to?",
+    "options": [
+      "The ratio of air bypassing the core to air passing through the core",
+      "The pressure ratio across the fan",
+      "The ratio of fuel to air in the combustion chamber"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "115",
+    "question": "What is the function of the fuel ejector pump?",
+    "options": [
+      "Transfer fuel using motive flow from another source",
+      "Increase tank pressure",
+      "Prevent vapor lock"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "116",
+    "question": "At a given gross weight, as altitude increases, the true airspeed for stall?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "117",
+    "question": "In a pressurized system, the safety valve acts as?",
+    "options": [
+      "Both pressure relief and vacuum relief device",
+      "Pressure regulator",
+      "Flow restrictor"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "118",
+    "question": "The ground spoilers are deployed when?",
+    "options": [
+      "Weight-on-wheels and thrust levers closed",
+      "Flaps extended beyond 15°",
+      "Airspeed exceeds Vfe"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "119",
+    "question": "What does 'balanced field length' ensure in take-off performance?",
+    "options": [
+      "Equal accelerate-stop and accelerate-go distances",
+      "Shortest possible take-off run",
+      "Maximum climb gradient"
+    ],
+    "answer_index": 0
+  },
+  {
+    "number": "120",
+    "question": "Which condition will increase the risk of compressor stall?",
+    "options": [
+      "High angle of attack and low RPM",
+      "Low angle of attack and high RPM",
+      "Stable inlet airflow"
+    ],
+    "answer_index": 0
+  }
+]
