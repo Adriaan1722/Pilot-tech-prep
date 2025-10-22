@@ -1,0 +1,22 @@
+[
+  {
+    "number": "1",
+    "question": "1. Landing on contaminated runway requires?",
+    "options": [
+      "115% of the landing distance required",
+      "110% of the landing distance required",
+      "115% of the landing distance available"
+    ],
+    "answer": "115% of the landing distance required"
+  },
+  {
+    "number": "2",
+    "question": "2. The ice protection for propellers of modern turboprop aeroplane works",
+    "options": [
+      "With bleed air",
+      "Electrically",
+      "Turboprops do not have ice protection"
+    ],
+    "answer": "Electrically"
+  }
+]

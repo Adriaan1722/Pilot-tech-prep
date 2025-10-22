@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Pilot Tech Prep</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div id="login-screen" class="centered">
+    <h1>Pilot Tech Prep</h1>
+    <p class="lead">Enter password to access mock exams</p>
+    <input id="password" type="password" placeholder="Password" autofocus />
+    <button id="unlock">Unlock</button>
+    <p class="small">Default password: <code>pilot2025</code>. Change in <code>exam.js</code>.</p>
+    <div id="login-message" class="small"></div>
+  </div>
+
+  <div id="app" class="hidden">
+    <header>
+      <h1>Pilot Tech Prep — Mock Exam</h1>
+      <div class="meta">50 random questions — submit to get your percentage score</div>
+      <button id="logout" class="smallbtn">Logout</button>
+    </header>
+
+    <main>
+      <div id="controls">
+        <label>Load questions file: <input id="fileInput" type="file" accept=".json" /></label>
+        <button id="startBtn" class="primary">Start Exam</button>
+        <button id="downloadSample">Download Sample JSON</button>
+      </div>
+
+      <div id="quizArea" class="hidden">
+        <div id="questionCounter"></div>
+        <div id="questionBox"></div>
+        <div class="nav">
+          <button id="prevBtn">Previous</button>
+          <button id="nextBtn">Next</button>
+          <button id="submitBtn" class="primary">Submit Exam</button>
+        </div>
+      </div>
+
+      <div id="resultArea" class="hidden"></div>
+    </main>
+
+    <footer>Made for <strong>Pilot Tech Prep</strong></footer>
+  </div>
+
+<script src="exam.js"></script>
+</body>
+</html>

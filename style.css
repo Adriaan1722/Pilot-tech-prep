@@ -1,0 +1,16 @@
+
+body{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial; background:#f7f9fc; color:#111; margin:0; padding:20px}
+.centered{max-width:520px;margin:80px auto;padding:24px;background:#fff;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.08);text-align:center}
+.hidden{display:none}
+.lead{color:#444}
+input[type=password], input[type=file]{padding:8px;margin:8px 0;width:100%;box-sizing:border-box}
+.primary{background:#1a73e8;color:#fff;border:none;padding:8px 12px;border-radius:6px;cursor:pointer}
+.smallbtn{background:#eee;border:1px solid #ccc;padding:4px 8px;border-radius:6px;cursor:pointer}
+header{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px}
+#questionBox{background:#fff;padding:14px;border-radius:8px;border:1px solid #e6eef8;min-height:140px}
+.q{margin-bottom:12px}
+.choices label{display:block;margin:6px 0;cursor:pointer}
+.nav{margin-top:12px;display:flex;gap:8px}
+#resultArea .summary{background:#e9f7ef;padding:12px;border-radius:8px}
+.small{font-size:0.9rem;color:#666}
+footer{margin-top:24px;text-align:center;color:#666}
